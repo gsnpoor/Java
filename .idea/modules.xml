@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Likou/Likou.iml" filepath="$PROJECT_DIR$/Likou/Likou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/program1.iml" filepath="$PROJECT_DIR$/program1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text1/text1.iml" filepath="$PROJECT_DIR$/text1/text1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text10/text10.iml" filepath="$PROJECT_DIR$/text10/text10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text11/text11.iml" filepath="$PROJECT_DIR$/text11/text11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text12/text12.iml" filepath="$PROJECT_DIR$/text12/text12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text13/text13.iml" filepath="$PROJECT_DIR$/text13/text13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text14/text14.iml" filepath="$PROJECT_DIR$/text14/text14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text15/text15.iml" filepath="$PROJECT_DIR$/text15/text15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text16/text16.iml" filepath="$PROJECT_DIR$/text16/text16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text17/text17.iml" filepath="$PROJECT_DIR$/text17/text17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text2/text2.iml" filepath="$PROJECT_DIR$/text2/text2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text3/text3.iml" filepath="$PROJECT_DIR$/text3/text3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text4/text4.iml" filepath="$PROJECT_DIR$/text4/text4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text5/text5.iml" filepath="$PROJECT_DIR$/text5/text5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text6/text6.iml" filepath="$PROJECT_DIR$/text6/text6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text7/text7.iml" filepath="$PROJECT_DIR$/text7/text7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text8/text8.iml" filepath="$PROJECT_DIR$/text8/text8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text9/text9.iml" filepath="$PROJECT_DIR$/text9/text9.iml" />
+    </modules>
+  </component>
+</project>
