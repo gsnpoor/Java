@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaProgram.iml" filepath="$PROJECT_DIR$/JavaProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Likou/Likou.iml" filepath="$PROJECT_DIR$/Likou/Likou.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketNet/SocketNet.iml" filepath="$PROJECT_DIR$/SocketNet/SocketNet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/program1.iml" filepath="$PROJECT_DIR$/program1.iml" />
       <module fileurl="file://$PROJECT_DIR$/text1/text1.iml" filepath="$PROJECT_DIR$/text1/text1.iml" />
       <module fileurl="file://$PROJECT_DIR$/text10/text10.iml" filepath="$PROJECT_DIR$/text10/text10.iml" />
       <module fileurl="file://$PROJECT_DIR$/text11/text11.iml" filepath="$PROJECT_DIR$/text11/text11.iml" />
