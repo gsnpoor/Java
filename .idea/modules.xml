@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Likou/Likou.iml" filepath="$PROJECT_DIR$/Likou/Likou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketNet/SocketNet.iml" filepath="$PROJECT_DIR$/SocketNet/SocketNet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/program1.iml" filepath="$PROJECT_DIR$/program1.iml" />
