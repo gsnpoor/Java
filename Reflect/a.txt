@@ -1,0 +1,4 @@
+name=波妞
+salary=10000
+name=波妞
+salary=10000
