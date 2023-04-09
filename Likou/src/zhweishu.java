@@ -1,5 +1,3 @@
-package num1;
-
 public class zhweishu {
     public static void main(String[] args) {
         int[] num1 = {1,9};

@@ -1,5 +1,3 @@
-package FunctionDemo;
-
 public class problem {
     public static void main(String[] args) {
         String[] strs = {"flow", "flow"};
