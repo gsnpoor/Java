@@ -1,3 +1,5 @@
+package com.LK;
+
 public class gongyinzi {
     public static void main(String[] args) {
         System.out.println(commonFactors(12,6));

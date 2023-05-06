@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_1026 {
     public static class Solution {
         public int maxAncestorDiff(TreeNode root) {

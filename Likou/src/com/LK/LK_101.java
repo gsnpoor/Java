@@ -1,21 +1,21 @@
+package com.LK;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class LK_94 {
-    public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        dfs(root,list);
-        return list;
+public class LK_101 {
+    public boolean isSymmetric(TreeNode root) {
+        return check(root, root);
     }
 
-    public static void dfs(TreeNode root, List<Integer> list) {
-        if (root == null){
-            return;
+    public boolean check(TreeNode p, TreeNode q) {
+        if (p == null && q == null) {
+            return true;
         }
-        dfs(root.left,list);
-        list.add(root.val);
-        dfs(root.right,list);
-
+        if (p == null || q == null) {
+            return false;
+        }
+        return p.val == q.val && check(p.left, q.right) && check(p.right, q.left);
     }
 
     public static class TreeNode {

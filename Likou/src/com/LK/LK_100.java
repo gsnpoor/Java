@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_100 {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         boolean flag = true;

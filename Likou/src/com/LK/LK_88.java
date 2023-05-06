@@ -1,3 +1,5 @@
+package com.LK;
+
 import java.util.Arrays;
 
 public class LK_88 {

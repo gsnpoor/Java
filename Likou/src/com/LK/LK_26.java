@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_26 {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 1) {

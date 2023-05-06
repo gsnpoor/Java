@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_28 {
     public int strStr(String haystack, String needle) {
         String s = haystack.replaceAll(needle, "A");

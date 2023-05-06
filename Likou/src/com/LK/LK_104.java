@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_104 {
     public int maxDepth(TreeNode root) {
         if (root == null) {

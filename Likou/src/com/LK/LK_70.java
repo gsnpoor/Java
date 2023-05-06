@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_70 {
     //f(x) = f(x - 1) + f(x - 2)
     public static void main(String[] args) {

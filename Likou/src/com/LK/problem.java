@@ -1,3 +1,5 @@
+package com.LK;
+
 public class problem {
     public static void main(String[] args) {
         String[] strs = {"flow", "flow"};

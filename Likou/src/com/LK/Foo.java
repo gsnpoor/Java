@@ -1,3 +1,5 @@
+package com.LK;
+
 public class Foo {
     public Foo() {
 
