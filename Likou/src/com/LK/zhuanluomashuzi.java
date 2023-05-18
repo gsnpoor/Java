@@ -1,3 +1,5 @@
+package com.LK;
+
 public class zhuanluomashuzi {
     public static void main(String[] args) {
         

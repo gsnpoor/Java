@@ -1,3 +1,5 @@
+package com.LK;
+
 public class Foobar {
     private int n;
     volatile boolean bool = false;

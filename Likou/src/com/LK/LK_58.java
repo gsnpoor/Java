@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_58 {
     public static void main(String[] args) {
         System.out.println(lengthOfLastWord("      "));
