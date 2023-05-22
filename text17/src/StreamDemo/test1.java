@@ -1,12 +1,39 @@
 package StreamDemo;
 
+import java.util.Arrays;
+
 public class test1 {
     public static void main(String[] args) {
         int[] arr = {6, 1, 2, 5, 4, 3, 9, 7, 10, 8};
+        System.out.println(Arrays.toString(arr));
         quickSort(arr, 0, arr.length - 1);
-        for (int j : arr) {
-            System.out.println(j);
+        System.out.println(Arrays.toString(arr));
+    }
+
+    public static void quickSort(int[] arr, int i, int j) {
+        int start = i + 1;
+        int end = j;
+        int baseNumber = arr[i];
+        if (start > end) {
+            return;
         }
+        while (start != end) {
+            while (end > start && arr[end] >= baseNumber) {
+                end--;
+            }
+            while (end > start && arr[start] <= baseNumber) {
+                start++;
+            }
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+        }
+        int temp = arr[start];
+        arr[start] = arr[i];
+        arr[i] = temp;
+        System.out.println(Arrays.toString(arr));
+        quickSort(arr, i, start - 1);
+        quickSort(arr, start + 1, j);
     }
 
     public static int binarySearch(int[] arr, int number) {
@@ -50,7 +77,6 @@ public class test1 {
                     arr[j] = temp;
                 }
             }
-
         }
         return arr;
     }
@@ -81,30 +107,5 @@ public class test1 {
             return 1;
         }
         return number * sum(number - 1);
-    }
-
-    public static void quickSort(int[] arr, int i, int j) {
-        int start = i + 1;
-        int end = j;
-        int baseNumber = arr[i];
-        if (start > end) {
-            return;
-        }
-        while (start != end) {
-            while (end > start && arr[end] >= baseNumber) {
-                end--;
-            }
-            while (end > start && arr[start] <= baseNumber) {
-                start++;
-            }
-            int temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-        }
-        int temp = arr[start];
-        arr[start] = arr[i];
-        arr[i] = temp;
-        quickSort(arr, i, start - 1);
-        quickSort(arr, start + 1, j);
     }
 }
