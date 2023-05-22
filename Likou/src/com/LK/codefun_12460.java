@@ -3,7 +3,7 @@ package com.LK;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicReference;
 
-public class codefun_12460 {
+public class codefun_12460{
     public static void main(String[] args) {
         int[][] arr = new int[][]{
                 {8, 0, 1, 2, 3, 4, 5, 6, 7},
