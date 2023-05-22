@@ -1,3 +1,5 @@
+package com.LK;
+
 public class LK_66 {
     public static void main(String[] args) {
         int[] digits = {9, 9, 9,8,9,0,7};
